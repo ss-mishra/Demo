@@ -1,0 +1,6 @@
+Git is a version control system.
+git hub is a cloud hosting website.
+git is a tool
+github is a cloud based website.
+
+
